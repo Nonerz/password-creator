@@ -3,6 +3,9 @@ Super Easy to use password creator
 Just go to releases and wait for 15-20 seconds to generate password
 Easy as that
 
+
+To install ----- https://github.com/Nonerz/password-creator/releases/tag/Security and click on the exe
+
 |
 |
 |
